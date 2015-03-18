@@ -1,1 +1,1 @@
-add_executable(Calc Calc.cpp)
+add_executable (Rabbits Rabbits.cpp)
